@@ -13,5 +13,5 @@ Según la [Agencia tributaria](https://www.agenciatributaria.es/AEAT.internet/In
 - Así que en 4 años no podríamos amortizar por completo el cargo inical (135.8*4=543.2).
 - Pero amortizándolo a 7 años nos daría de sobra para amortizar por completo dicha adquisición (135.8*7=950.6).
   
-  ## Ejercicios3. En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? ##  
-  ![Cpuinfo y flags de funcionalidad de virtualización](imagenes/cpuinfo.png)
+## Ejercicios3. En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? ##  
+![Cpuinfo y flags de funcionalidad de virtualización](imagenes/cpuinfo.png)
