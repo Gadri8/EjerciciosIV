@@ -14,4 +14,4 @@ Según la [Agencia tributaria](https://www.agenciatributaria.es/AEAT.internet/In
 - Pero amortizándolo a 7 años nos daría de sobra para amortizar por completo dicha adquisición (135.8*7=950.6).
   
   ## Ejercicios3. En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? ##  
-  [Cpuinfo y flags de funcionalidad de virtualización](imagenes/cpuinfo.png)
+  ![Cpuinfo y flags de funcionalidad de virtualización](imagenes/cpuinfo.png)
