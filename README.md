@@ -1,5 +1,8 @@
 # EjerciciosIV
+
 Repositorio anexo de la asignatura de Infraestructura Virtual para añadir ejercicios y trabajos extra asociados al temario.
+
+### [Repositorio del Proyecto Principal](https://github.com/Gadri8/ProyectoIV) ###
 
 ## Ejercicios1. Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años
 
