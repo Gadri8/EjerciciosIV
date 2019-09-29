@@ -15,3 +15,9 @@ Según la [Agencia tributaria](https://www.agenciatributaria.es/AEAT.internet/In
   
 ## Ejercicios3. En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? ##  
 ![Cpuinfo y flags de funcionalidad de virtualización](imagenes/cpuinfo.png)
+
+## Ejercicios4. ##  
+## 1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. Alternativamente (o además), usar lscpu como se indica arriba. ##
+![kvm-ok](imagenes/kvm-ok.png)  
+## 2. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios. ##
+![vbox version](imagenes/vbox.png)
